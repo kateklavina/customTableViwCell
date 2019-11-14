@@ -13,6 +13,7 @@
 		098C268D237D67B500833350 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 098C268B237D67B500833350 /* Main.storyboard */; };
 		098C268F237D67BB00833350 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 098C268E237D67BB00833350 /* Assets.xcassets */; };
 		098C2692237D67BB00833350 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 098C2690237D67BB00833350 /* LaunchScreen.storyboard */; };
+		098C269A237D6FAF00833350 /* CarTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098C2699237D6FAF00833350 /* CarTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		098C268E237D67BB00833350 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		098C2691237D67BB00833350 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		098C2693237D67BB00833350 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		098C2699237D6FAF00833350 /* CarTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				098C2685237D67B500833350 /* AppDelegate.swift */,
 				098C2687237D67B500833350 /* SceneDelegate.swift */,
 				098C2689237D67B500833350 /* ViewController.swift */,
+				098C2699237D6FAF00833350 /* CarTableViewCell.swift */,
 				098C268B237D67B500833350 /* Main.storyboard */,
 				098C268E237D67BB00833350 /* Assets.xcassets */,
 				098C2690237D67BB00833350 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				098C268A237D67B500833350 /* ViewController.swift in Sources */,
 				098C2686237D67B500833350 /* AppDelegate.swift in Sources */,
+				098C269A237D6FAF00833350 /* CarTableViewCell.swift in Sources */,
 				098C2688237D67B500833350 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
